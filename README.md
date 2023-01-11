@@ -1,5 +1,6 @@
 <h1 align="center">🌲 Linktree  🌲</h1>
-## My link tree website page built by html and css only to group all my profiles on social networks in one place.!!
+
+# My link tree website page built by html and css only to group all my profiles on social networks in one place.
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lironmiz/Link-Tree?color=04D361&labelColor=000000">
@@ -20,11 +21,4 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee2.svg">
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!--🦶FOOTER--> 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
