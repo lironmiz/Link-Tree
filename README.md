@@ -1,6 +1,6 @@
 <h1 align="center">🌲 Linktree  🌲</h1>
 
-My link tree website page built by html and css only to group all my profiles on social networks in one web page
+My link tree website page built by html and css only to group all my profiles on social networks in one web page 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 
@@ -22,5 +22,3 @@ My link tree website page built by html and css only to group all my profiles on
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
-
-
