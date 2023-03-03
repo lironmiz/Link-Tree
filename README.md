@@ -9,9 +9,6 @@ My link tree website page built by html and css only to group all my profiles on
   
  <img alt="Repository size" src="https://img.shields.io/github/repo-size/lironmiz/Link-Tree?color=04D361&labelColor=000000">
   
-  <a href="https://github.com/lironmiz/Link-Tree/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lironmiz/Link-Tree?color=04D361&labelColor=000000">
-  </a>
 </p>
   
 <!--🐱CAT-->
